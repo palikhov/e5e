@@ -34,10 +34,6 @@ Coven features were excluded for now as special features that are a culmination 
 21. **Charge.** If the *creature* moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra (##d6) damage. If the target is a creature, it must succeed on a DC ## Strength saving throw or be knocked prone.
 22. **Charge**. If the *creature* moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, the target takes an extra (##d6) damage.
 23. **Confer Fire Resistance.** The *creature* can grant resistance to fire damage to anyone riding it.
-
-\pagebreak
-
-
 24. **Consume Life**. As a bonus action, the *creature* can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC ## Constitution saving throw against this magic or die. If the target dies, the *creature* regains (##d6) hit points.
 25. **Corrode Metal.** Any nonmagical weapon made of metal that hits the *creature* corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the *creature* is destroyed after dealing damage.
 The *creature* can eat through 2-inch-thick, nonmagical metal in 1 round.
@@ -65,10 +61,6 @@ The *creature* can eat through 2-inch-thick, nonmagical metal in 1 round.
 47. **Evasion**. If the *creature* is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the *creature* instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 48. **False Appearance.** While the *creature* remains motionless, it is indistinguishable from a mundane object.
 49. **Faultless Tracker.** The *creature* is given a quarry by its summoner. The *creature* knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The *creature* also knows the location of its summoner.
-
-\pagebreak
-
-
 50. **Fear Aura.** Any creature hostile to the *creature* that starts its turn within 20 feet of the *creature* must make a DC ## Wisdom saving throw, unless the *creature* is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the *creature*'s Fear Aura for the next 24 hours.
 51. **Fey Ancestry.** The *creature* has advantage on saving throws against being charmed, and magic can't put the *creature* to sleep.
 52. **Fire Absorption.** Whenever the *creature* is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
@@ -100,10 +92,6 @@ The *creature* can eat through 2-inch-thick, nonmagical metal in 1 round.
 78. **Keen Sight.** The *creature* has advantage on Wisdom (Perception) checks that rely on sight.
 79. **Labyrinthine Recall.** The *creature* can perfectly recall any path it has traveled.
 80. **Legendary Resistance (3/Day).** If the *creature* fails a saving throw, it can choose to succeed instead.
-
-\pagebreak
-
-
 81. **Light Sensitivity.** While in bright light, the *creature* has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 82. **Limited Amphibiousness.** The *creature* can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
 83. **Limited Telepathy.** The *creature* can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
@@ -133,10 +121,6 @@ A creature that isn't surprised can avert its eyes to avoid the saving throw at 
 100. **Rampage**. When the *creature* reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 101. **Reactive**. The *creature* can take one reaction on every turn in combat.
 102. **Reactive Heads.** For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
-
-\pagebreak
-
-
 103. **Reckless**. At the start of its turn, the *creature* can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 104. **Reflective Carapace.** Any time the *creature* is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the *creature* is unaffected. On a 6, the *creature* is unaffected, and the effect is reflected back at the caster as though it originated from the *creature*, turning the caster into the target.
 105. **Regeneration**. The *creature* regains 10 hit points at the start of its turn. If the *creature* takes acid or fire damage, this trait doesn't function at the start of the *creature*'s next turn. The *creature* dies only if it starts its turn with 0 hit points and doesn't regenerate.
@@ -160,10 +144,6 @@ While in mist form, the *creature* can't take any actions, speak, or manipulate 
 121. **Shapechanger**. The *creature* can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 122. **Shapechanger**. The *creature* can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 123. **Shapechanger**. The *creature* can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the *creature* loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-\pagebreak
-
-
 124. **Shapechanger**. The *creature* can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 125. **Shapechanger**. The *creature* can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 126. **Shapechanger**. The *creature* can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
@@ -194,10 +174,6 @@ While in mist form, the *creature* can't take any actions, speak, or manipulate 
 151. **Turn Defiance.** The *creature* and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 152. **Turn Immunity.** The *creature* is immune to features that turn undead.
 153. **Turn Resistance.** The *creature* has advantage on saving throws against any effect that turns undead.
-
-\pagebreak
-
-
 154. **Undead Fortitude.** If damage reduces the *creature* to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the *creature* drops to 1 hit point instead.
 155. **Underwater Camouflage.** The *creature* has advantage on Dexterity (Stealth) checks made while underwater.
 156. **Vampire Weaknesses.** The *creature* has the following flaws:
@@ -215,11 +191,6 @@ While in mist form, the *creature* can't take any actions, speak, or manipulate 
 160. **Water Form.** The *creature* can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 161. **Web Sense.** While in contact with a web, the *creature* knows the exact location of any other creature in contact with the same web.
 162. **Web Walker.** The *creature* ignores movement restrictions caused by webbing.
-
-
-\pagebreak
-
-
 
 ### Actions
 1. **Acid Breath (Recharge 5–6).** The *creature* exhales acid in a ##-foot line that is 5 feet wide. Each creature in that line must make a DC ## Dexterity saving throw, taking (##d8) acid damage on a failed save, or half as much damage on a successful one.
@@ -263,9 +234,6 @@ On a failed save, the *creature* enters the creature's space, and the creature t
 \
 An engulfed creature can try to escape by taking an action to make a DC ## Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the *creature*.
 26. **Fetid Cloud (1/Day).** A 10-foot radius of disgusting green gas extends out from the *creature*. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC ## Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
-
-\pagebreak
-
 26. **Fey Charm.** The *creature* targets one humanoid or beast that she can see within 30 feet of her. If the target can see the *creature*, it must succeed on a DC ## Wisdom saving throw or be magically charmed. The charmed creature regards the *creature* as a trusted friend to be heeded and protected. Although the target isn't under the *creature*'s control, it takes the *creature*'s requests or actions in the most favorable way it can.
 Each time the *creature* or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the *creature* dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the *creature*'s Fey Charm for the next 24 hours.
 \
@@ -286,10 +254,6 @@ Unless the target is surprised or the revelation of the *creature*'s true form i
 39. **Illusory Appearance.** The *creature* covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the *creature* takes a bonus action to end it or if she dies.
 The changes wrought by this effect fail to hold up to physical inspection. For example, the *creature* could appear to have smooth skin, but someone touching it would feel rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC ## Intelligence (Investigation) check to discern that the *creature* is disguised.
 40. **Ink Cloud (Recharges after a Short or Long Rest)**. A 20-foot-radius cloud of ink extends all around the *creature* if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the *creature* can use the Dash action as a bonus action.
-
-
-\pagebreak
-
 41. **Invisibility.** The *creature* magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the *creature* wears or carries is invisible with it.
 42. **Invisible Passage.** The *creature* magically turns invisible until it attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, it leaves no physical evidence of its passage, so it can be tracked only by magic. Any equipment it wears or carries is invisible with her.
 43. **Leadership (Recharges after a Short or Long Rest).** For 1 minute, the *creature* can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the *creature*. A creature can benefit from only one Leadership die at a time. This effect ends if the *creature* is incapacitated.
@@ -310,9 +274,6 @@ A target that successfully saves is immune to this *creature*'s song for the nex
 Whenever any creature targets the *creature* with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the *creature* or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
 \
 A duplicate has the *creature*'s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
-
-\pagebreak
-
 54. **Poison Breath (Recharge 5–6).** The *creature* exhales poisonous gas in a ##-foot cone. Each creature in that area must make a DC ## Constitution saving throw, taking (##d8) poison damage on a failed save, or half as much damage on a successful one.
 55. **Possession (Recharge 6).** One humanoid that the *creature* can see within 5 feet of it must succeed on a DC ## Charisma saving throw or be possessed by the *creature*; the *creature* then disappears, and the target is incapacitated and loses control of its body. The *creature* now controls the body but doesn't deprive the target of awareness. The *creature* can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
 \
@@ -335,9 +296,6 @@ The possession lasts until the body drops to 0 hit points, the *creature* ends i
 65. **Steam Breath (Recharge 5–6).** The *creature* exhales scalding steam in a ##-foot cone. Each creature in that area must make a DC ## Constitution saving throw, taking (##d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 66. **Steam Breath (Recharge 6).** The *creature* exhales a ##-foot cone of scalding steam. Each creature in that area must succeed on a DC ## Dexterity saving throw, taking (##d8) fire damage on a failed save, or half as much damage on a successful one.
 67. **Stunning Screech (1/Day).** The *creature* emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC ## Constitution saving throw or be stunned until the end of the *creature*'s next turn.
-
-\pagebreak
-
 68. **Swallow**. The *creature* makes one bite attack against a target it is grappling that is two or more size categories smaller. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the *creature*, and it takes (##d6) acid damage at the start of each of the *creature*'s turns. The *creature* can have only one target swallowed at a time.
 \
 If the *creature* dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
@@ -358,17 +316,13 @@ The *creature* can grapple one Large creature or up to two Medium or smaller cre
 \
 If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
-\pagebreak
-
-
-
 ### Reactions
+
 1. **Parry**. The *creature* adds its Proficiency Bonus to its AC against one melee attack that would hit it. To do so, the *creature* must see the attacker and be wielding a melee weapon.
 2. **Rock Catching.** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 3. **Shield.** When a creature makes an attack against the wearer of the *creature*'s amulet, the *creature* grants a +2 bonus to the wearer's AC if the *creature* is within 5 feet of the wearer.
 4. **Split**. When a *creature* that is Medium or larger is subjected to lightning or slashing damage, it splits into two new *creature*s if it has at least 10 hit points. Each new *creature* has hit points equal to half the original *creature*'s, rounded down. New *creature*s are one size smaller than the original *creature*.
 5. **Unnerving Mask.** When a creature the *creature* can see starts its turn within 30 feet of the *creature*, the *creature* can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the *creature*, it must succeed on a DC ## Wisdom saving throw or be frightened until the end of its turn.
-
 
 ### Legendary Actions
 1. **Attack.** The *creature* makes one claw attack or tail attack.
@@ -399,10 +353,6 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 26. **Whirlwind of Sand (Costs 2 Actions).** The *creature* magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the *creature* is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the *creature* remain in its possession.
 27. **Blinding Gaze (Costs 3 Actions).** The *creature* targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC ## Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
 28. **Cast a Spell (Costs 3 Actions).** The *creature* casts a spell from its list of prepared spells, using a spell slot as normal.
-
-\pagebreak
-
-
 29. **Disrupt Life (Costs 3 Actions).** Each non-undead creature within 20 feet of the *creature* must make a DC ## Constitution saving throw against this magic, taking (##d6) necrotic damage on a failed save, or half as much damage on a successful one.
 30. **Heal Self (Costs 3 Actions).** The *creature* magically regains (##d8 + CONmod) hit points.
 31. **Ink Cloud (Costs 3 Actions).** While underwater, the *creature* expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the *creature*. Each creature other than the *creature* that ends its turn there must succeed on a DC ## Constitution saving throw, taking (##d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the *creature*'s next turn.
@@ -423,10 +373,6 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 8. Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.
 6. Freezing fog fills a 20-foot-radius sphere centered on a point the *creature* can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking 10 (3d6) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the *creature* uses this lair action again or until the *creature* dies.
 5. Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the *creature* can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be restrained by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the *creature* uses this lair action again or when the *creature* dies.
-
-\pagebreak
-
-
 14. Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the *creature* can see within 120 feet of it. The *creature* makes one ranged attack roll (+7 to hit) against each target. On a hit, the target takes 10 (3d6) piercing damage.
 3. Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the *creature* can see. They must be within 120 feet of the *creature* and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) lightning damage.
 2. Magical darkness spreads from a point the *creature* chooses within 60 feet of it, filling a 15-foot-radius sphere until the *creature* dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
@@ -445,11 +391,6 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 4. The *creature* glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
 5. The *creature* rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.
 6. The *creature* targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the *creature* to the target. Whenever the *creature* takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the *creature* takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the *creature* or the target is no longer in the *creature*'s lair.
-
-\pagebreak
-
- 
-
 32. The water in the *creature*'s lair becomes electrically charged. All creatures within 120 feet of the *creature* must succeed on a DC 23 Constitution saving throw, taking 10 (3d6) lightning damage on a failed save, or half as much damage on a successful one.
 5. Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the *creature*'s lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.
 6. Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the *creature* can see within 120 feet of it. The sphere spreads a round corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.
@@ -481,10 +422,6 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 4. Plants within 500 feet of the lair wither, and their stems and branches become twisted and thorny.
 5. Once per day, the *creature* can alter the weather in a 6-mile radius centered on its lair. The *creature* doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
 6. Open flames of a non magical nature are extinguished within the *creature*'s domain. Torches and campfires refuse to burn, but closed lanterns are unaffected.
-
-\pagebreak
-
-
 24. Rocky fissures within 1 mile of the *creature*'s lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.
 5. Rodents and birds within 1 mile of the *creature*'s lair serve as the *creature*'s eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator.
 6. Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.
@@ -510,15 +447,13 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 5. Within its lair, the *creature* can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.
 6. Within 1 mile of its lair, the *creature* leaves no physical evidence of its passage unless it wishes to. Tracking it there is impossible except by magical means. In addition, it ignores movement impediments and damage from plants in this area that are neither magical nor creatures, including the thickets described above. The plants remove themselves from the *creature*'s path.
 7. Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the *creature*'s or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
-\pagebreak
+
 ## Additional Monster Features
 The "Creating a Monster" section of the DMG includes guidelines regarding Challenge Rating calculations and how to make monsters, including step-by-step instructions for monster creation, as well as multiple lists of generic features to be used by monsters and NPCs alike.
 
 This section builds off of this DMG content by making suggestions as to what generic features certain monsters could get based on their role and tier. Note that the features mentioned in this section all have the potential to increase a monster's Challenge Rating, as discussed in the previous section.
 
 Additionally, note that the features discussed in this section aren't exclusive to a given role. When a monster has two or more overlaping roles, it is appropriate to give it features that are associated with any of those roles. Even when this overlap isn't present, it is reasonable to use a "mismatching" feature if it can be justified via flavor. For example, the Limited Flight ability below might be usable to represent a flying skirmisher instead of a controller. Rather than being rigid categories, you can treat each collection of features as fluid recommendations that purely depend on the flavor of your monster.
-
-\pagebreakNum
 
 ### Brutes
 The Aggressive, Brute, Charge, Rampage, Reckless, Relentless, and Siege Monster features are all appropriate for brutish monsters. In addition, consider using any of the following features to round out your brutes.
@@ -609,8 +544,6 @@ My [Warlord Collection](https://www.gmbinder.com/share/-LtrZrYqZl6TBt8gu9lt) doc
 
 ***Tactical Maneuver.*** As a bonus action, the monster targets one monster it can see within 60 feet of it. If the ally can see and hear the monster, it can use its reaction to move up to half its speed without provoking opportunity attacks.
 
-\columnbreak
-
 ## Creating a Boss Fight
 In D&D and fiction as a whole, the concept of an epic showdown against a powerful boss monster is universal. Before making entirely new homebrew mechanics for these boss monsters, let's first discuss the options that already exist, and expand upon them as needed.
 
@@ -646,7 +579,6 @@ Legendary Resistances are given to many legendary monsters to prevent them from 
 
 ***Unbreakable (3/Day).*** If the monster is incapacitated at the start of its turn, the effect causing this condition immediately ends on the monster.
 
-\pagebreakNum
 
 ### Lair Actions
 To make certain fights more epic and cool, you can give your monsters access to lair actions. Lair actions are special powers that certain monsters can use to manipulate the lair they reside in. For example, an ancient red dragon can cause magma and volcanic gases to erupt within its lair, while Orcus can cause corpses within the lair to animate as undead. Not only do these powers add to the presentation of the fight, but they also influence the action economy by allowing a monster that has them to do more from round to round.
@@ -672,8 +604,6 @@ Additionally, consider using the following ability to enhance a monster's capabi
 ___
 - **Manipulate Lair (Costs 2 Legendary Actions).** On initiative count 10 (losing initiative ties), the monster takes a lair action.
 
-\columnbreak
-
 ### Legendary Actions
 Legendary actions are special abilities that some monsters can use outside of their normal turn in combat. They have a set number of legendary actions per round, and they can spend them on various effects that interupt the normal initiative order.
 
@@ -690,8 +620,6 @@ When designing legendary actions for your monsters, keep the following tips in m
 Remember that while these costly abilities should be more powerful than the others, they shouldn't necessarily be the best choice in all situations. While some abilities might be considered the "default" options, they should all be comparable enough where choosing between them involves some sort of opportunity cost.
 
 ***Stay Organized.*** Legendary actions aren't just sorted alphabetically. All options are sorted in an ascending manner based on how many legendary actions they cost, and within each tier, they are sorted alphabetically. Then, utility legendary actions such as Detect, Move, and Use an Object that don't have any direct offensive or defensive power are moved to the top, unless such options cost more than one legendary actions.
-
-\pagebreakNum
 
 &emsp;***Customize your Options.*** Not all monsters will have the same type of legendary actions. Some legendary actions will enable them to enter melee range and to smash their foes into the ground. Others will boost their defensive power of both themselves and their allies. A few of them even let a monster teleport across the battlefield and activate powerful magical or psionic abilities.
 
@@ -722,8 +650,6 @@ ___
 - **Smash (Costs 2 Actions).** The monster makes a melee attack against a creature within its reach. On a hit, the target must also make a Constitution saving throw (DC is Strength-based). On a failed save, the target is stunned until the end of the monster's next turn.
 - **Swat Away (Costs 2 Actions).** The monster makes a melee attack. If the attack hits, the target must succeed on a DC Strength saving throw (DC is Strength-based) or be pushed 15 feet in a straight line away from the monster. If the saving throw fails by 5 or more, the target also falls prone.
 
-\columnbreak
-
 #### Controllers
 Controllers tend to have legendary actions that disable or weaken their foes rather than doing direct damage.
 
@@ -747,7 +673,6 @@ ___
 - **Step from Sight (Costs 2 Actions).** The monster moves up to half its speed, and is invisible during this movement. If the conditions are met, it can take the Hide action at the end of the move.
 - **Backup Plan (Costs 3 Actions).** The monster casts the *invisibility* spell on itself. It then moves up to its speed.
 
-\pagebreakNum
 
 #### Snipers
 Snipers tend to have legendary actions that enable them to focus on one enemy in particular.
@@ -774,7 +699,6 @@ The official setting book Mythic Odysseys of Theros introduced mythic monsters, 
 
 Personally, I think this is a great addition to 5e. It is elegant, flexible, and very effective at what it is trying to do. In fact, I even made my own mythic monster in my [Elder Evils 5e](https://www.gmbinder.com/share/-LNa95CLcSwIUPkRniO3#p28) conversion as soon as I learned how they work.
 
-\columnbreak
 
 #### Breakdown
 Mythic monsters have two key components: a mythic trait, and mythic actions that are associated with it.
@@ -793,8 +717,6 @@ Here are some variants of this system that you can use for your mythic monsters.
 A similar concept applies to reactions: you can grant the monster an additional reaction slot, or access to a trait like Reactive, while its mythic trait is active.
 
 ***Multiple Transformations.*** Want to have a monster with more than just two phases? Label its mythic trait with multiple uses per day, and that's all you need to do. That said, such a monster will be much stronger than a normal mythic monster, which is already very strong compared to a normal legendary monster. With this in mind, perhaps the monster's transformations shouldn't restore all of its hit points, or perhaps the monster should have less hit points to begin with.
-
-\pagebreakNum
 
 #### Generic Mythic Traits
 Here are some mythic traits you can copy or build off of to create your own mythic monsters.
@@ -837,7 +759,8 @@ Artificers are tricky because they are inherently tied to magic items, which are
 
 ***Spell Versatility (Recharge 5-6).*** At the start of its turn, the monster can immediately swap one of its prepared spells for another spell on the artificer spell list.
 
-\columnbreak
+
+
 
 #### Barbarian
 Barbarians are easy to represent due to their straightforward manner of attacking. To reach higher CRs, they can be given damage resistances and other forms of damage mitigation that are adequately explained by their Rage feature.
