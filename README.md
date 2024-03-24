@@ -1,6 +1,3 @@
-# E5E - EXPANDED (EXPERT) 5E RULES // E5E - РАСШИРЕННЫЕ (ЭКСПЕРТНЫЕ) ПРАВИЛА ПЯТОЙ РЕДАКЦИИ
+# e5e - Expanded 5e rules
 
-1. Основаны на SRD 5.1
-
-
-
+version: 0
